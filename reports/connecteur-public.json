@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-04",
+  "kind": "integration-publique-en-lecture",
+  "preuveLimite": "Compte rendu d’exécution ; les données ne sont pas un corpus d’évaluation Jev.",
+  "endpoint": "https://data.ademe.fr/data-fair/api/v1/datasets/historique-rge/lines",
+  "operation": "Lecture paginée et normalisation des périodes de qualification",
+  "result": "116 lignes normalisées pour un SIRET public, sans coordonnées de contact conservées"
+}
